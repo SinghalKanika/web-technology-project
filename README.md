@@ -4,12 +4,6 @@ A simple **role-based E-Learning web application** built using **HTML, CSS, and 
 
 ---
 
-## 🚀 Live Demo
-
-*(Add your GitHub Pages link here after deployment)*
-
----
-
 ## 📌 Features
 
 ### 🔐 Access Control (Primary Focus)
@@ -104,18 +98,6 @@ Role: Admin
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here for better presentation)*
-
----
-
 ## 👩‍💻 Author
 
 **Kanika Singhal**
-
----
-
-## 📜 License
-
-This project is for educational purposes.
