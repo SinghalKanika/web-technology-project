@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin Panel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body onload="checkAdmin()">
+
+<h2>Admin Panel</h2>
+
+<input type="text" id="title" placeholder="Course Title">
+<textarea id="content" placeholder="Course Content"></textarea>
+<button onclick="addCourse()">Add Course</button>
+
+<h3>Existing Courses</h3>
+<div id="adminCourses"></div>
+
+<button onclick="goBack()">Back</button>
+
+<script src="script.js"></script>
+</body>
+</html>
